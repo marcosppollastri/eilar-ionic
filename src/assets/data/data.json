@@ -1,17 +1,17 @@
 {
   "schedule": [
     {
-      "date": "2047-05-17",
+      "date": "2019-10-05",
       "groups": [
         {
           "time": "8:00 am",
           "sessions": [
             {
-              "name": "Breakfast",
+              "name": "Acreditación",
               "timeStart": "8:00 am",
               "timeEnd": "9:00 am",
-              "location": "Dining Hall",
-              "tracks": ["Food"],
+              "location": "Anfiteatro 17 de Octubre",
+              "tracks": ["Inscripcion"],
               "id": "1"
             }
           ]
@@ -210,7 +210,7 @@
               "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
               "timeStart": "2:45 pm",
               "timeEnd": "3:00 pm",
-              "tracks": ["Design"],
+              "tracks": ["Diseño"],
               "id": "18"
             }
           ]
@@ -379,20 +379,10 @@
 
   "map": [
     {
-      "name": "Monona Terrace Convention Center",
-      "lat": 43.071584,
-      "lng": -89.38012,
+      "name": "Anfiteatro 17 de Octubre",
+      "lat": -29.42950,
+      "lng": -66.87030,
       "center": true
-    },
-    {
-      "name": "Ionic HQ",
-      "lat": 43.074395,
-      "lng": -89.381056
-    },
-    {
-      "name": "Afterparty - Brocach Irish Pub",
-      "lat": 43.07336,
-      "lng": -89.38335
     }
   ],
 
@@ -418,7 +408,7 @@
       "icon": "hammer"
     },
     {
-      "name": "Design",
+      "name": "Diseño",
       "icon": "color-palette"
     },
     {
